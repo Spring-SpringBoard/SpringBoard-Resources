@@ -1,2 +1,2 @@
 # Scenario-Editor-Resources
-Repository for holding large Scenario Editor resources (textures and similar)
+Repository for holding large Scenario Editor resources (textures and similar) 
