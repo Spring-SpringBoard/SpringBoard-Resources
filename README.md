@@ -1,2 +1,3 @@
-# Scenario-Editor-Resources
-Repository for holding large Scenario Editor resources (textures and similar) 
+# DEPRECATED
+
+See http://springboard-core.readthedocs.io/en/latest/assets.html on how to obtain assets.
