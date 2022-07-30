@@ -1,3 +1,3 @@
-# DEPRECATED
+# SpringBoard Resources
 
-See http://springboard-core.readthedocs.io/en/latest/assets.html on how to obtain assets.
+Various SB resources can be found here: https://github.com/Spring-SpringBoard/SpringBoard-Resources/releases/tag/resources​
